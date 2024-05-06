@@ -5,9 +5,9 @@ MyProject is a Python application that utilizes tkinter for creating a graphical
 ## Installation
 
 1. Clone the repository:
-- git clone
+- git clone https://github.com/Giridhar800/Calculator-App-GUI-.git
 2. Navigate into the project directory:
-- cd MyProject
+- cd Calculator-App-GUI
 3. Install the required dependencies using pip:
 - pip install -r requirements.txt
 ## Usage
