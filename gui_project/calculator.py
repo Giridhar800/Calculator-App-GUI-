@@ -30,7 +30,7 @@ def main():
         n3 = n1 * n2
         e3.delete(0,tkinter.END)
         e3.inser(0,str(n3))
-
+    # this is division function(GIRI)
     def div():
         n1 = int(e1.get())
         n2 = int(e2.get())
